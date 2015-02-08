@@ -4,3 +4,8 @@ package godocinpagelink_test
 func Example() {
 	// Output:
 }
+
+// Example B is ...
+func Example_b() {
+	// Output:
+}
